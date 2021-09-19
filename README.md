@@ -2,6 +2,7 @@
 Вездекод 10
 
 # Install and launch
+```
 sudo apt install qt5-default
 sudo apt install libqt5webkit5-dev
 
@@ -10,3 +11,4 @@ cd build
 qmake ..
 make
 ./vezde10
+```
